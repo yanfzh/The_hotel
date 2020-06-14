@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//WebContent/sys/type=GBK
+encoding//src/cn/itcast/dao=GBK
+encoding//src/cn/itcast/dao/impl=GBK
+encoding//src/cn/itcast/dao/impl/FoodDao.java=GBK
+encoding//src/cn/itcast/entity=GBK
+encoding//src/cn/itcast/factory=GBK
+encoding//src/cn/itcast/service=GBK
+encoding//src/cn/itcast/service/impl=GBK
+encoding//src/cn/itcast/servlet=GBK
+encoding//src/cn/itcast/utils=GBK
