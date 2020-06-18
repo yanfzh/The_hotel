@@ -21,6 +21,6 @@
 	Entity/dao/service/servlet
 
 页面截图：
-https://github.com/yanfzh/The_hotel/blob/master/6.JPG
+![11](https://github.com/yanfzh/The_hotel/blob/master/6.JPG)
  
 
