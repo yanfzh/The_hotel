@@ -21,6 +21,15 @@
 	Entity/dao/service/servlet
 
 页面截图：
-![11](https://github.com/yanfzh/The_hotel/blob/master/6.JPG)
+![前台页面](https://github.com/yanfzh/The_hotel/blob/master/6.JPG)
+![前台页面](https://github.com/yanfzh/The_hotel/blob/master/7.JPG)
+![前台页面](https://github.com/yanfzh/The_hotel/blob/master/8.JPG)
+![前台页面](https://github.com/yanfzh/The_hotel/blob/master/9.JPG)
+![前台页面](https://github.com/yanfzh/The_hotel/blob/master/2.JPG)
+![前台页面](https://github.com/yanfzh/The_hotel/blob/master/3.JPG)
+![前台页面](https://github.com/yanfzh/The_hotel/blob/master/4.JPG)
+![前台页面](https://github.com/yanfzh/The_hotel/blob/master/5.JPG)
+
+
  
 
